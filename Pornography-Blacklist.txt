@@ -31190,7 +31190,8 @@
 127.0.0.1       www.zzgays.com
 127.0.0.1       www.zzztube.com
 
-# Porn Add Blacklist
+# Porn Ads Blacklist
+
 
 127.0.0.1  localhost
 ::1  localhost
@@ -31755,7 +31756,7 @@
 127.0.0.1       xxxcounter.com
 127.0.0.1       yourads.website
 
-# List of duplicate URLs prepended "www", as they may resolve to a different address in certain circumstances (i.e. phone, country).
+# Duplicate URLs prepended "www". (They may resolve to a different address in certain circumstances)
 
 127.0.0.1       www.ad1.doublepimp.com
 127.0.0.1       www.ad2.doublepimp.com
