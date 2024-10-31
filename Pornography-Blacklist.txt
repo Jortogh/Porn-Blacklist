@@ -31999,5 +31999,12 @@
 127.0.0.1       www.xapi.juicyads.com
 127.0.0.1       www.xxxbannerswap.com
 
-! Reddit bypass
+! **Reddit bypass**
 www.redditstatic.com/shreddit*xpromo-nsfw-blocking-modal-*.js$script,domain=www.reddit.com
+
+! Blocks the Reddit "Open in app" banner
+reddit.com##.XPromoPill
+reddit.com##.XPromoPopup
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoBottomBar
+reddit.com##.XPromoDialog
