@@ -31998,3 +31998,6 @@
 127.0.0.1       www.wm.banners.sextracker.com
 127.0.0.1       www.xapi.juicyads.com
 127.0.0.1       www.xxxbannerswap.com
+
+! Reddit bypass
+www.redditstatic.com/shreddit*xpromo-nsfw-blocking-modal-*.js$script,domain=www.reddit.com
