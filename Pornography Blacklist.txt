@@ -1,6 +1,5 @@
-Title: Pornography Blacklist
+! Title: Pornography Blacklist
 
-# Number of Unique URLs: 26000 [PORN DOMAINS ONLY]
 
 127.0.0.1  localhost
 ::1  localhost
