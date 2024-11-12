@@ -31189,6 +31189,13 @@
 127.0.0.1       www.zzcartoon.com
 127.0.0.1       www.zzgays.com
 127.0.0.1       www.zzztube.com
+127.0.0.1       www.1337x.to/sub/48/0/
+127.0.0.1       www.1337x.to/sub/49/0/
+127.0.0.1       www.1337x.to/sub/50/0/
+127.0.0.1       www.1337x.to/sub/51/0/
+127.0.0.1       www.1337x.to/sub/67/0/
+127.0.0.1       www.1337x.to/cat/XXX/1/
+127.0.0.1       www.1337x.to/popular-xxx
 
 # Porn Ads Blacklist
 
