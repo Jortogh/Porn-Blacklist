@@ -24938,9 +24938,6 @@
 127.0.0.1       zzqrt.com
 127.0.0.1       zzsyw.com
 127.0.0.1       zzztube.com
-
-# [BETA] List of porn doamins with multitple IP addresses that serves based on the user agent.
-
 127.0.0.1       104.27.164.240  # pornlovo.com
 127.0.0.1       104.27.165.240
 127.0.0.1       172.64.202.7  # m.fuckup.xxx
